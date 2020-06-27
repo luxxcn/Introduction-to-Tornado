@@ -1,0 +1,9 @@
+/* Example 2-7.Alpha Munger stylesheet: style.css*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    margin: 0 auto;
+}
+.replaced:hover{
+    color: #00f;
+}
