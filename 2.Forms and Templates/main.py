@@ -1,8 +1,8 @@
 """
-Example 2-1. Simple forms and templates: poemmaker.py
+Example 2-4. Simple forms and templates: main.py
 测试：
 1.运行：
-python poemmaker.py --port=8000
+python main.py --port=8000
 2.浏览器中访问：
 http://localhost:8000/
 """
