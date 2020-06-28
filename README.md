@@ -18,3 +18,6 @@ Example 2-1. Simple forms and templates: [poemmaker.py](https://github.com/luxxc
 
 Example 2-4. Complete forms and templates: [main.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/2.Forms%20and%20Templates/main.py)
 > 其他文件（同时这些文件对应Example 2-5, 2-6, 2-7）: [`index24.html`](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/2.Forms%20and%20Templates/templates/index24.html), [`munged.html`](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/2.Forms%20and%20Templates/templates/munged.html)和[`style.css`](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/2.Forms%20and%20Templates/static/style.css)
+#### 第三章 Extending Templates
+Example 3-1.Module basics: [hello_module.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/3.Extending%20Templates/hello_module.py)
+> 其他文件[`hello.html`](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/3.Extending%20Templates/templates/hello.html)
