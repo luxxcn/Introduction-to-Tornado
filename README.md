@@ -1,5 +1,5 @@
 # Introduction to Tornado
-![Introduction to Tornado](https://learning.oreilly.com/library/cover/9781449312787/ 'Introduction to Tornado')<br>
+![Introduction to Tornado](https://learning.oreilly.com/library/cover/9781449312787/)<br>
 电子书地址: [O'Reilly book](http://shop.oreilly.com/product/0636920021292.do)<br>
 原书示例代码：[GitHub](https://github.com/Introduction-to-Tornado/Introduction-to-Tornado)
 
