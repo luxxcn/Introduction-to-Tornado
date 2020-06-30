@@ -22,3 +22,17 @@ Example 2-4. Complete forms and templates: [main.py](https://github.com/luxxcn/I
 #### 第三章 Extending Templates
 Example 3-1.Module basics: [hello_module.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/3.Extending%20Templates/hello_module.py)
 > 其他文件[`hello.html`](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/3.Extending%20Templates/templates/hello.html)
+#### 第四章 Databases
+Example 4-1. A dictionary web service: [definitions_readonly.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/4.Databases/definitions_readonly.py)
+> 其他文件，用例需数据：[db_example_words.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/4.Databases/db_example_words.py)
+
+Example 4-2.A read/write dictionary service: [definitions_readwrite.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/4.Databases/definitions_readwrite.py)
+
+Example 4-3.Reading from the database: [burts_books_db.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/4.Databases/burts_books_db.py)
+> 其他文件，初始化用例数据，只执行一次：[init_burts_books_db.py](https://github.com/luxxcn/Introduction-to-Tornado/blob/master/4.Databases/init_burts_books_db.py)，以及相关模板页面和静态文件(css和js)
+
+## 备注
+----
+#### 安装mongodb如果卡在了Installing MongoDB Compass...
+>1. 安装时不勾选Compass<br>
+>2. 单独安装 [Compass](https://www.mongodb.com/try/download/compass)
